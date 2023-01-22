@@ -1,7 +1,9 @@
 # Indebted
 Communication Data Analysis Technical Assessment 
 
-Data Cleansing and Initial Assessment: Python and SQL
+Data Cleansing and Assessment: SQL
+
+Attribute Relevance Analysis: Python
 
 Final Output: Tableau using communications.csv
 
