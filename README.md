@@ -2,6 +2,7 @@
 Communication Data Analysis Technical Assessment 
 
 Data Cleansing and Initial Assessment: Python and SQL
+
 Final Output: Tableau using communications.csv
 
 communications.csv file link:
